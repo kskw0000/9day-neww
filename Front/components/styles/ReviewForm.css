@@ -1,0 +1,25 @@
+/* ReviewForm.css */
+.review-card {
+    margin: 1em 0;
+    padding: 1em;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+}
+
+.review-card-body {
+    display: flex;
+    flex-direction: column;
+}
+
+.review-form {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  
+.inputBox {
+    width: 95%;  /* or any percentage less than 100% */
+    box-sizing: border-box;
+    /* add other styles as needed */
+  }
+  
